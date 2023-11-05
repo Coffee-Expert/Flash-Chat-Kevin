@@ -47,10 +47,8 @@ This Flash Chat App will not only provide users with a platform to connect with 
 ## Project Screenshots:
 
 <div style="display: flex;">
-        <img src="https://github.com/Coffee-Expert/Flash-Chat-Kevin/blob/master/images/todoey%201.jpeg" alt="Image 3" width="260" height="550" style="padding: 100px; margin: 50px">
-        <img src="https://github.com/Coffee-Expert/Flash-Chat-Kevin/blob/master/images/todoey%202.jpeg" alt="Image 1" width="260" height="550" style="padding: 100px; margin: 50px">
-        <img src="https://github.com/Coffee-Expert/Flash-Chat-Kevin/blob/master/images/todoey%203.jpeg" alt="Image 2" width="260" height="550" style="padding: 100px; margin: 50px">
-    </div>
+        <img src="https://github.com/Coffee-Expert/Flash-Chat-Kevin/blob/master/images/flash%20caht.png" alt="Image 3" width="900" height="950" style="padding: 100px; margin: 50px">
+     </div>
 
 
  
